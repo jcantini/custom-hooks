@@ -3,7 +3,7 @@
 
 
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 // Voy a mantener la info en el Local Storage
 // const initialState = [];
